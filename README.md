@@ -1,3 +1,6 @@
+An application that helps you make your resume better for a job application after inputting a job description and your resume.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
